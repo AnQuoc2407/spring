@@ -54,6 +54,8 @@ public class Course {
     public void setDescription(String description) {
         this.description = description;
     }
+
+
     public Topic getTopic() {
         return topic;
     }
